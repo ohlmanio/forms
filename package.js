@@ -2,7 +2,7 @@ Package.describe({
 	name: 'ohlman:forms',
 	version: '1.2.0',
 	summary: 'Fully reactive forms which don\'t mess with your html',
-	git: 'https://github.com/usefulio/forms',
+	git: 'https://github.com/ohlmanio/forms',
 	documentation: 'README.md'
 });
 
